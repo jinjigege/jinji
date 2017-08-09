@@ -3,3 +3,5 @@ phpinfo();
 
 
 "goodslist";
+
+"goodsinfo";
